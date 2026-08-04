@@ -80,7 +80,7 @@ OnlineShoppingDB
 
 ### ER Diagram
 
-![ER Diagram](online_shopping_ERdiagram.png)
+![ER Diagram](ERdiagram.png)
 
 ---
 
