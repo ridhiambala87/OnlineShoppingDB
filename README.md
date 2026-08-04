@@ -62,10 +62,9 @@ A relational database management system developed using **MySQL** to manage an o
 ```
 OnlineShoppingDB
 │
-├── OnlineShoppingDB.sql
-├── OnlineShoppingDB_Backup.sql
+├── online shopping.sql
+├── online_shoppingdb.sql
 ├── README.md
-├── Project_Report.pdf
 └── Screenshots
 ```
 
